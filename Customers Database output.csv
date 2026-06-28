@@ -1,0 +1,7 @@
+"customer_id","name","age","city","email","risk_category","pep_status","occupation_id"
+101,"Ramesh Sharma",21,"Navi Mumbai","ramesh@dummy.com","LOW","NO",1
+102,"Amit Patel",45,"Mumbai","amit@dummy.com","HIGH","NO",2
+103,"Suresh Kumar",29,"Bengaluru","suresh@dummy.com","MEDIUM","NO",3
+104,"Vijay Singh",23,"Pune","vijay@dummy.com","LOW","NO",4
+105,"Vikram Adani",52,"New Delhi","vikram@dummy.com","HIGH","YES",5
+106,"Deepak Verma",34,"Hyderabad","deepak@dummy.com","MEDIUM","NO",6
